@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# Cache
+.cache/
+*.tsbuildinfo
+
+# Logs
+*.log
+
+# Environment files
+.env*
+!.env.example
+
+# Build outputs
+*.min.js
+*.min.css
+
+# Package manager
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Public assets
+public/
