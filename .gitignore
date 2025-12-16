@@ -42,3 +42,4 @@ next-env.d.ts
 
 # cursor plans
 .cursor/plans
+/lib/generated/prisma
